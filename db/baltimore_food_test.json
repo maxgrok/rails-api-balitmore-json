@@ -1,0 +1,377 @@
+     { 
+      "Businesses": 
+      [{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.610053,
+            39.317888
+          ]
+        },
+        "properties": {
+          "title":"Manna House",
+          "url":"https://mannahouseinc.org/",
+          "phoneFormatted": "(410) 889-3001",
+          "phone": "4108893001",
+          "address": "435 East. 25th Street",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at 25th St.",
+          "postalCode": "21218",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.595733,
+           39.286330
+          ]
+        },
+        "properties": {
+          "title":"Beans and Bread",
+          "url":"http://www.vincentbaltimore.org/our-programs/",
+          "phoneFormatted": "(410)-732-1892",
+          "phone": "4107321892",
+          "address": "400 S. Bond St.",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at S. Bond St.",
+          "postalCode": "21218",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.618676,
+            39.314823
+          ]
+        },
+        "properties": {
+          "title":"Franciscan Center",
+          "url":"#",
+          "phoneFormatted": "(410)-467-5340",
+          "phone": "4104675340",
+          "address": "101 W. 23rd St.",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at 23rd St.",
+          "postalCode": "21218",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.610312,
+            39.298351
+          ]
+        },
+        "properties": {
+          "title":"Our Daily Bread",
+          "url":"#",
+          "phoneFormatted": "(443)-986-9000",
+          "phone": "4439869000",
+          "address": "725 Fallsway",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Fallsway",
+          "postalCode": "21202",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.632832,
+            39.282055
+          ]
+        },
+        "properties": {
+          "title":"Paul's Place",
+          "url":"#",
+          "phoneFormatted": "(410)-625-0775",
+          "phone": "4106250775",
+          "address": "1118 Ward St.",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Ward St.",
+          "postalCode": "21202",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.608326,
+           39.290948
+          ]
+        },
+        "properties": {
+          "title":"Food Not Bombs",
+          "url":"#",
+          "phoneFormatted": "(410)-448-0333",
+          "phone": "4104480333",
+          "address": "101 North Gay Street",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at North Gay St.",
+          "postalCode": "21202",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.615322,
+           39.280089
+          ]
+        },
+        "properties": {
+          "title":"Ebenezar Outreach",
+          "url":"#",
+          "phoneFormatted": "(410)-783-0190",
+          "phone": "4107830190",
+          "address": "20 West Montgomery Street",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Montgomery St.",
+          "postalCode": "21230",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.599899,
+           39.305417
+          ]
+        },
+        "properties": {
+          "title":"Knox Presbyterian Church",
+          "url":"#",
+          "phoneFormatted": "(410)-385-0900",
+          "phone": "4103850900",
+          "address": "1300 N. Eden Street,",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at North Eden St.",
+          "postalCode": "21213",
+          "state": "MD"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.608326,
+           39.290948
+          ]
+        },
+        "properties": {
+          "title":"St. Joseph Freewill Baptist Church",
+          "url":"#",
+          "phoneFormatted": "(410)-342-7726",
+          "phone": "4103427726",
+          "address": "1601 Rutland Avenue",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Rutland Avenue",
+          "postalCode": "21213",
+          "state": "MD"
+        }
+      },
+      {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.610357,
+            39.357090
+          ]
+        },
+        "properties": {
+          "title":"C.A.R.E.S.",
+          "url":"#",
+          "phoneFormatted": "(410)-532-2273 ",
+          "phone": "4108893001",
+          "address": "5502 York Road",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at York Rd.",
+          "postalCode": "21212",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.607062,
+            39.342734
+          ]
+        },
+        "properties": {
+          "title":"Church of the Redeemed of Lord",
+          "url":"#",
+          "phoneFormatted": "(410)-433-0426",
+          "phone": "4104330426",
+          "address": "4321 Old York Road",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Old York Rd.",
+          "postalCode": "21212",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.634231,
+            39.329735
+          ]
+        },
+        "properties": {
+          "title":"HWR-MW Christian Fellowship",
+          "url":"#",
+          "phoneFormatted": "(410)-235-1997",
+          "phone": "4102351997",
+          "address": "3449 Falls Road",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Falls Rd.",
+          "postalCode": "21211",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.670847,
+            39.347833
+          ]
+        },
+        "properties": {
+          "title":"Transforming Life Outreach Ministry",
+          "url":"#",
+          "phoneFormatted": "(410)-466-1929",
+          "phone": "4104661929",
+          "address": "3008 Oakley Avenue",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Oakley Ave.",
+          "postalCode": "21215",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.621370,
+            39.319915
+          ]
+        },
+        "properties": {
+          "title":"Church of the Guardian Angel",
+          "url":"#",
+          "phoneFormatted": "(410)-889-8400",
+          "phone": "4108898400",
+          "address": "335 West 27th Street",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at 27th St.",
+          "postalCode": "21211",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.659590,
+           39.323210
+          ]
+        },
+        "properties": {
+          "title":"Soul Harvest Church & Ministry",
+          "url":"#",
+          "phoneFormatted": "(410)-728-1292",
+          "phone": "4107281292",
+          "address": "2901 Druid Park Dr., Suite 112",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Druid Park Dr.",
+          "postalCode": "21215",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.688778,
+           39.348939
+          ]
+        },
+        "properties": {
+          "title":"Beth-El Temple Food Program",
+          "url":"#",
+          "phoneFormatted": "(410)-466-8298",
+          "phone": "4104668298",
+          "address": "3910 West Rogers Avenue",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at West Rogers Ave.",
+          "postalCode": "21215",
+          "state": "MD"
+        }
+  },
+  {
+    "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.668749,
+           39.323756
+          ]
+        },
+        "properties": {
+          "title":"Charitable Donations C.D.O.M.",
+          "url":"#",
+          "phoneFormatted": "(410)-542-1204",
+          "phone": "4105421204",
+          "address": "3106 Liberty Heights Avenue",
+          "city": "Baltimore MD",
+          "country": "United States",
+          "crossStreet": "at Liberty Heights Ave.",
+          "postalCode": "21215",
+          "state": "MD"
+        }
+}]
+   }
